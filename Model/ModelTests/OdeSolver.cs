@@ -1,6 +1,6 @@
 ﻿using DotNumerics.ODE;
 
-namespace RIVM.radau5.Computations
+namespace radau5.Computations
 {
     /// <summary>
     /// A wrapper around the DotNumerics ODE implicit Runge Kutta solver.

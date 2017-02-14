@@ -6,8 +6,8 @@
     <ProjectGuid>{EA25CB60-77B0-48F7-913D-AE19F752DBF9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RIVM.DustEx.Model.Tests</RootNamespace>
-    <AssemblyName>RIVM.DustEx.Model.Tests</AssemblyName>
+    <RootNamespace>radau5.DotNumerics.Tests</RootNamespace>
+    <AssemblyName>radau5.DotNumerics.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

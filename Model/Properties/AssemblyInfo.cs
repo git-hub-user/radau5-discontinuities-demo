@@ -4,14 +4,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RIVM.radau5.DotNumerics.Demo")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("RIVM")]
-[assembly: AssemblyProduct("RIVM.radau5.DotNumerics.Demo")]
-[assembly: AssemblyCopyright("Copyright © RIVM 2017")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyTitle("radau5.DotNumerics.Demo")]
+[assembly: AssemblyProduct("radau5.DotNumerics.Demo")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from

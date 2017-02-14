@@ -3,17 +3,17 @@ using System;
 using System.Diagnostics;
 using System.IO;
 
-namespace RIVM.radau5.DotNumericsTests
+namespace radau5.DotNumerics.Tests
 {
     [TestClass]
-    public class DotNumericsTests
+    public class DotNumerics.Tests
     {
         private const int NumberOfTimeSteps = 100;
 
         [TestInitialize]
         public void SetupTrace()
         {
-            Trace.Listeners.Add(new TextWriterTraceListener(Path.Combine(Path.GetTempPath(), @"DotNumericsTests.txt")));
+            Trace.Listeners.Add(new TextWriterTraceListener(Path.Combine(Path.GetTempPath(), @"DotNumerics.Tests.txt")));
         }
 
         [TestCleanup]

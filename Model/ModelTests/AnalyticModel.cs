@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RIVM.radau5.DotNumericsTests
+namespace radau5.DotNumerics.Tests
 {
     internal class AnalyticModel
 

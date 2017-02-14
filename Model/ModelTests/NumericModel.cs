@@ -1,9 +1,9 @@
 ﻿using DotNumerics.ODE;
-using RIVM.radau5.Computations;
+using radau5.Computations;
 using System;
 using System.Diagnostics;
 
-namespace RIVM.radau5.DotNumericsTests
+namespace radau5.DotNumerics.Tests
 {
     internal class NumericModel
     {
